@@ -13,6 +13,9 @@ scipy = "*"
 jupyter = "*"
 pyomo = "*"
 seaborn = "*"
+prophet = "*"
+fbprophet = "*"
+colab = "*"
 
 [requires]
 python_version = "2.7"
